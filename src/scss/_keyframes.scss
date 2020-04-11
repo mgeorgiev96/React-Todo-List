@@ -1,0 +1,27 @@
+@keyframes remove {
+    0%{
+        transform: scale(0) rotateX(-90deg);
+        opacity: 0;
+    }
+    100%{
+        transform: scale(1.2) rotateX(0);
+    }
+}
+
+
+@keyframes animate{
+    0%{
+        transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(100%);
+    }
+}
+@keyframes animate1{
+    0%{
+        transform: translateY(-100%);
+    }
+    100%{
+        transform: translateY(100%);
+    }
+}

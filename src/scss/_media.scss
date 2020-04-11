@@ -1,0 +1,17 @@
+@media all and (max-width:750px){
+    .container{
+        .todos_container{
+            .list{
+                li{
+                    width:100%;
+                }
+            }
+        }
+        .control_section{
+            .filter_search{
+                width: 50% ;
+                margin-left: 5%;
+            }
+        }
+    }
+}

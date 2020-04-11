@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Todo-List/static/css/main.46d09ef6.chunk.css",
+    "main.js": "/React-Todo-List/static/js/main.74643957.chunk.js",
+    "main.js.map": "/React-Todo-List/static/js/main.74643957.chunk.js.map",
+    "runtime-main.js": "/React-Todo-List/static/js/runtime-main.f20bc567.js",
+    "runtime-main.js.map": "/React-Todo-List/static/js/runtime-main.f20bc567.js.map",
+    "static/js/2.fd502326.chunk.js": "/React-Todo-List/static/js/2.fd502326.chunk.js",
+    "static/js/2.fd502326.chunk.js.map": "/React-Todo-List/static/js/2.fd502326.chunk.js.map",
+    "index.html": "/React-Todo-List/index.html",
+    "precache-manifest.814282be12aa1631e9c817fe4ad5e2c2.js": "/React-Todo-List/precache-manifest.814282be12aa1631e9c817fe4ad5e2c2.js",
+    "service-worker.js": "/React-Todo-List/service-worker.js",
+    "static/css/main.46d09ef6.chunk.css.map": "/React-Todo-List/static/css/main.46d09ef6.chunk.css.map",
+    "static/js/2.fd502326.chunk.js.LICENSE.txt": "/React-Todo-List/static/js/2.fd502326.chunk.js.LICENSE.txt",
+    "static/media/ishan-seefromthesky-6U-sSfBV-gM-unsplash.jpg": "/React-Todo-List/static/media/ishan-seefromthesky-6U-sSfBV-gM-unsplash.aea5529f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20bc567.js",
+    "static/js/2.fd502326.chunk.js",
+    "static/css/main.46d09ef6.chunk.css",
+    "static/js/main.74643957.chunk.js"
+  ]
+}
